@@ -13,4 +13,4 @@
 <img src="raylib.png" alt="raylib" width="52" height="52">
 
 ### Find out more at:
-[https://aboutastro.vercel.app](aboutastro.vercel.app)
+[aboutastro.vercel.app](https://aboutastro.vercel.app)
