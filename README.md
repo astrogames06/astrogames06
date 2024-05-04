@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [AstroGames](https://astrogames06.github.io)
-- 📫 How to reach me: jebba272727@gmail.com
+- 📫 How to reach me: jebba272727@gmail.com (email) and mregg4266 (discord)
 
 ### Im experienced with:
 
