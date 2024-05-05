@@ -14,3 +14,5 @@
 
 ### Find out more at:
 [aboutastro.vercel.app](https://aboutastro.vercel.app)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogames06&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
