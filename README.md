@@ -15,4 +15,4 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,windows,apple,powershell,raspberrypi)](https://skillicons.dev)
 <img src="raylib.png" alt="raylib" width="52" height="52">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogames06&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=astrogames06&theme=dark&exclude_repo=astrogames06.github.io,astrogames-games&#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats&exclude_repo=astrogames06.github.io#gh-dark-mode-only)
