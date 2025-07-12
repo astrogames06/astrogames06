@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 14-year-old programmer.
+I am a 15-year-old programmer.
 
 - 🔭 I’m currently working on [AstroGames](https://astrogames06.github.io)
 - 📫 How to reach me: jebba272727@gmail.com (email) and mregg4266 (discord)
